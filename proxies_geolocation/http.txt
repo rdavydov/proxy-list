@@ -1,0 +1,49 @@
+130.41.15.76:8080::United States::Colorado::Denver
+157.100.12.138:999::Ecuador::Provincia de Loja::Loja
+177.141.99.50:8080::Brazil::Sao Paulo::São Paulo
+134.122.58.174:80::Netherlands::North Holland::Amsterdam
+190.90.242.210:999::Colombia::Departamento de Norte de Santander::Ocaña
+158.69.52.218:9300::Germany::Land Berlin::Berlin
+41.57.138.30:8080::South Africa::Mpumalanga::Delmas
+103.166.210.123:443::Indonesia::Banten::Tangerang
+176.98.95.105:32018::Ukraine::Cherkasy Oblast::Uman
+143.198.242.86:8048::United Kingdom::England::London
+200.85.198.9:999::Chile::O'Higgins Region::Machali
+187.190.0.240:999::Mexico::Mexico City::Mexico City
+190.97.225.37:999::Venezuela::Barinas::Barinas
+190.120.248.158:999::Venezuela::Monagas::Maturín
+195.8.52.243:8080::Poland::Subcarpathia::Ustrzyki Dolne
+191.103.219.225:48612::Colombia::Departamento del Cesar::Valledupar
+103.86.159.25:80::Indonesia::Jakarta::Jakarta
+216.169.73.65:34679::United States::Utah::Cedar City
+181.63.213.66:8089::Colombia::Departamento de Norte de Santander::Cúcuta
+79.253.201.252:8080::Germany::Bavaria::Freilassing
+45.174.87.18:999::Mexico::Chihuahua::Ciudad Juárez
+185.131.172.51:5050::Russia::Krasnoyarskiy Kray::Krasnoyarsk
+190.61.84.166:9812::Costa Rica::Provincia de San Jose::San José
+77.70.35.87:37475::Bulgaria::Sofia::Slivnitsa
+181.143.106.162:52151::Colombia::Antioquia::Medellín
+146.158.92.137:8080::Russia::Dagestan::Khasavyurt
+71.19.249.118:8001::United States::Florida::Miami
+185.246.153.10:3128::Netherlands::North Holland::Amsterdam
+170.83.242.250:999::Paraguay::Asuncion::Asunción
+200.25.254.193:54240::Colombia::Bogota D.C.::Bogotá
+190.60.104.218:3128::Colombia::Bogota D.C.::Bogotá
+191.102.125.245:8080::Colombia::Bogota D.C.::Bogotá
+103.164.112.124:10001::Indonesia::Jakarta::Jakarta
+201.91.82.155:3128::Brazil::Sao Paulo::São Paulo
+193.138.178.6:8282::Russia::Chelyabinsk Oblast::Chelyabinsk
+45.224.153.60:999::Ecuador::Provincia de Esmeraldas::Esmeraldas
+103.155.54.233:83::India::West Bengal::Karimpur
+203.150.172.151:8080::Thailand::Bangkok::Bangkok
+41.57.37.12:8080::South Africa::Gauteng::Boksburg
+174.81.78.64:48678::United States::North Carolina::Willard
+46.0.203.186:8080::Russia::Samara Oblast::Samara
+80.84.176.110:8080::Ukraine::Zaporizhzhya Oblast::Zaporizhzhya
+200.54.22.74:8080::Chile::Santiago Metropolitan::Santiago
+182.160.108.188:8090::Bangladesh::Dhaka Division::Dhaka
+113.160.155.129:19132::Vietnam::Ho Chi Minh::Ho Chi Minh City
+181.49.23.78:999::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+103.81.13.129:60714::India::Rajasthan::Bhiwadi
+23.138.80.49:999::Puerto Rico::Aguadilla::Aguadilla Barrio-Pueblo
+101.200.229.108:8080::China::Beijing::Beijing

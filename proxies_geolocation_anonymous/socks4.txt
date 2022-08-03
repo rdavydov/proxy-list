@@ -1,0 +1,21 @@
+195.219.98.27:5678::Spain::Basque Country::Abadino
+188.75.186.152:4145::Czechia::Liberecky kraj::Rokytnice nad Jizerou
+77.108.78.20:48079::Russia::Moscow::Moscow
+45.117.228.81:4145::Malaysia::Selangor::Petaling Jaya
+177.223.48.126:52104::Brazil::Pernambuco::Sao Jose do Egito
+117.58.245.66:61393::Bangladesh::Dhaka Division::Dhaka
+103.150.209.217:1080::Pakistan::Punjab::Lahore
+190.216.56.177:4153::Argentina::Cordoba::Córdoba
+119.235.49.121:4153::India::Andhra Pradesh::Guntur
+59.153.24.185:5678::Indonesia::Banten::Tangerang
+103.5.63.213:40544::Philippines::Central Luzon::San Jose del Monte
+185.161.210.184:25213::Netherlands::Flevoland::Dronten
+94.72.158.129:4153::Bulgaria::Plovdiv::Plovdiv
+103.210.29.201:31433::India::Uttar Pradesh::Kanpur
+37.18.73.94:5566::Germany::Land Berlin::Berlin
+103.169.130.26:5678::Indonesia::East Java::Pasuruan
+85.196.136.21:4153::Bulgaria::Stara Zagora::Stara Zagora
+191.97.2.198:5678::Colombia::Departamento del Valle del Cauca::Santiago de Cali
+103.8.115.27:48644::Pakistan::Punjab::Lahore
+186.224.225.26:42648::Brazil::Goias::Caldas Novas
+102.176.180.6:4153::Kenya::Nairobi Province::Nairobi

@@ -1,0 +1,15 @@
+130.41.15.76:8080::United States::Colorado::Denver
+190.90.242.210:999::Colombia::Departamento de Norte de Santander::Ocaña
+158.69.52.218:9300::Germany::Land Berlin::Berlin
+103.166.210.123:443::Indonesia::Banten::Tangerang
+143.198.242.86:8048::United Kingdom::England::London
+187.190.0.240:999::Mexico::Mexico City::Mexico City
+190.97.225.37:999::Venezuela::Barinas::Barinas
+190.120.248.158:999::Venezuela::Monagas::Maturín
+79.253.201.252:8080::Germany::Bavaria::Freilassing
+71.19.249.118:8001::United States::Florida::Miami
+45.224.153.60:999::Ecuador::Provincia de Esmeraldas::Esmeraldas
+103.155.54.233:83::India::West Bengal::Karimpur
+113.160.155.129:19132::Vietnam::Ho Chi Minh::Ho Chi Minh City
+103.81.13.129:60714::India::Rajasthan::Bhiwadi
+23.138.80.49:999::Puerto Rico::Aguadilla::Aguadilla Barrio-Pueblo

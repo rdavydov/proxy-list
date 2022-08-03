@@ -1,0 +1,91 @@
+51.222.146.133:7497::Argentina::Buenos Aires::Lanus
+205.251.66.56:7497::United States::California::San Jose
+161.129.245.25:7497::Canada::Manitoba::Winnipeg
+192.99.101.142:7497::Canada::Quebec::Montreal
+173.255.216.8:7497::United States::California::Fremont
+192.252.220.92:17328::United States::California::Los Angeles
+72.195.34.60:27391::United States::Louisiana::Baton Rouge
+184.178.172.25:15291::United States::Virginia::Roanoke
+143.198.146.139:10000::United States::California::Santa Clara
+184.178.172.5:15303::United States::Virginia::Roanoke
+70.166.167.38:57728::United States::Arizona::Phoenix
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+72.221.172.203:4145::United States::Louisiana::Monroe
+198.8.94.174:39078::United States::Georgia::Atlanta
+98.178.72.21:10919::United States::Oklahoma::Oklahoma City
+98.162.25.23:4145::United States::Louisiana::Baton Rouge
+72.195.114.169:4145::United States::Louisiana::Monroe
+72.217.216.239:4145::United States::Arizona::Phoenix
+72.206.181.123:4145::United States::Louisiana::Baton Rouge
+161.8.174.48:1080::United States::California::Los Angeles
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+72.206.181.105:64935::United States::Louisiana::Baton Rouge
+80.78.23.49:1080::Sweden::Skåne County::Malmo
+72.221.196.157:35904::United States::Oklahoma::Oklahoma City
+70.166.167.55:57745::United States::Arizona::Phoenix
+98.162.25.7:31653::United States::Louisiana::Baton Rouge
+192.111.139.162:4145::United States::Georgia::Atlanta
+72.206.181.103:4145::United States::Louisiana::Baton Rouge
+72.195.34.41:4145::United States::Louisiana::Baton Rouge
+98.162.25.4:31654::United States::Louisiana::Baton Rouge
+184.178.172.18:15280::United States::Virginia::Roanoke
+98.162.25.29:31679::United States::Louisiana::Baton Rouge
+192.252.214.20:15864::United States::Georgia::Atlanta
+72.195.34.42:4145::United States::Louisiana::Baton Rouge
+72.206.181.97:64943::United States::Louisiana::Baton Rouge
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+192.111.139.163:19404::United States::Georgia::Atlanta
+189.84.122.67:7497::Brazil::Ceara::Fortaleza
+91.121.168.6:7497::France::Hauts-de-France::Roubaix
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+72.210.252.134:46164::United States::Louisiana::Monroe
+170.238.79.2:7497::Brazil::Sao Paulo::São Paulo
+103.108.228.185:7497::Australia::Victoria::Melbourne
+202.46.36.196:21071::China::Guangdong::Shenzhen
+37.18.73.94:5566::Ukraine::Kyiv City::Kyiv
+184.178.172.13:15311::United States::Virginia::Roanoke
+192.111.135.18:18301::United States::Georgia::Atlanta
+192.252.208.67:14287::United States::Georgia::Atlanta
+192.252.208.70:14282::United States::Georgia::Atlanta
+192.111.129.145:16894::United States::Georgia::Atlanta
+114.225.129.124:44844::China::Jiangsu::Jiangyin
+72.195.114.184:4145::United States::Louisiana::Monroe
+174.77.111.197:4145::United States::Oklahoma::Oklahoma City
+203.153.36.37:7497::India::Haryana::Gurugram
+192.111.130.2:4145::United States::Georgia::Atlanta
+72.195.34.58:4145::United States::Louisiana::Baton Rouge
+72.210.252.137:4145::United States::Louisiana::Monroe
+103.53.228.217:7497::Vietnam::Ho Chi Minh::Ho Chi Minh City
+103.213.118.46:1080::Indonesia::South Sumatra::Palembang
+122.252.230.117:7497::India::Haryana::Gurugram
+72.221.164.34:60671::United States::Louisiana::Monroe
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+117.84.117.229:44844::China::Shanghai::Shanghai
+49.69.120.192:44844::China::Jiangsu::Yancheng
+49.75.114.245:44844::China::Jiangsu::Suzhou
+72.195.34.59:4145::United States::Louisiana::Baton Rouge
+31.128.248.2:1080::Ukraine::Cherkasy Oblast::Cherkasy
+72.210.208.101:4145::United States::Louisiana::Monroe
+115.219.118.141:44844::China::Zhejiang::Wenzhou
+5.161.100.145:1080::United States::Kansas::Wichita
+5.161.93.53:1080::United States::Kansas::Wichita
+91.134.139.238:3080::France::Hauts-de-France::Gravelines
+198.8.94.170:4145::United States::Georgia::Atlanta
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+49.83.23.109:44844::China::Jiangsu::Yancheng
+49.73.157.26:44844::China::Jiangsu::Suzhou
+98.188.47.132:4145::United States::Nebraska::Omaha
+182.34.224.77:44844::China::Shandong::Jinan
+114.245.104.174:44844::China::Beijing::Beijing
+37.18.73.60:5566::Germany::Land Berlin::Berlin
+43.135.74.226:38081::Hong Kong::Central and Western District::Central
+114.235.33.252:44844::China::Jiangsu::Qinnan
+49.89.252.70:44844::China::Jiangsu::Qinnan
+113.221.45.222:44844::China::Hunan::Loudi
+1.180.0.162:7302::China::Inner Mongolia Autonomous Region::Bieligutai
+210.211.122.40:35281::Vietnam::Tây Ninh Province::Tay Ninh
+43.129.207.123:3001::Hong Kong::Central and Western District::Central
+5.161.86.206:1080::United States::Kansas::Wichita
+114.221.198.61:44844::China::Jiangsu::Nanjing
