@@ -1,0 +1,26 @@
+45.167.126.249:9992::Colombia::Departamento del Cauca::Popayán
+80.89.198.229:80::None::None::None
+5.58.110.249:8080::Ukraine::Kyiv Oblast::Dubova
+171.211.244.186:7302::None::None::None
+201.218.158.79:999::Peru::Lima::Lima
+38.41.0.93:999::Venezuela::Distrito Federal::Caracas
+158.69.53.98:9300::United States::New York::New York
+122.102.118.83:8080::Iraq::Baghdad::Baghdad
+181.232.190.122:999::Dominican Republic::Provincia de Santo Domingo::Santo Domingo Este
+185.82.97.49:9094::Lebanon::Mohafazat Liban-Nord::Tripoli
+103.48.68.36:83::India::Telangana::Hyderabad
+189.129.100.76:999::Mexico::Chiapas::Tuxtla Gutiérrez
+170.254.201.200:3180::Brazil::Rio de Janeiro::Sao Goncalo
+103.118.152.33:8080::Bangladesh::Rajshahi Division::Gendaria
+180.183.229.254:8080::Thailand::Bangkok::Bangkok
+139.224.226.173:1080::India::Maharashtra::Mumbai
+212.98.150.201:9094::Lebanon::Mohafazat Liban-Nord::Tripoli
+103.154.231.68:3125::Indonesia::East Java::Lamongan
+157.100.53.100:999::Ecuador::Provincia de El Oro::Machala
+103.104.141.184:80::Bangladesh::Chittagong::Chittagong
+201.71.2.97:999::Venezuela::Distrito Federal::Caracas
+203.189.89.158:8080::Indonesia::West Java::Bandung
+103.148.195.22:8080::Indonesia::Bali::Tabanan
+190.107.233.232:999::Ecuador::Provincia de Pichincha::Hacienda Ibarra
+45.235.123.133:999::Argentina::Misiones::Wanda
+106.14.64.22:1080::Australia::New South Wales::Sydney

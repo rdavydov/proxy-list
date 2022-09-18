@@ -1,0 +1,89 @@
+200.16.68.111:7497::Colombia::Bogota D.C.::Bogotá
+44.195.36.104:443::United States::Virginia::Ashburn
+192.252.209.155:14455::United States::Georgia::Atlanta
+198.8.94.174:39078::United States::Georgia::Atlanta
+192.111.130.5:17002::Canada::Ontario::Toronto
+45.142.182.99:1080::Netherlands::North Holland::Amsterdam
+70.166.167.38:57728::United States::Oklahoma::Oklahoma City
+98.162.25.4:31654::United States::Louisiana::Baton Rouge
+72.210.252.137:4145::United States::Oklahoma::Oklahoma City
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+72.210.221.197:4145::United States::Oklahoma::Oklahoma City
+70.166.167.55:57745::United States::Oklahoma::Oklahoma City
+72.210.221.223:4145::United States::Oklahoma::Oklahoma City
+72.195.114.169:4145::United States::Oklahoma::Oklahoma City
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+72.206.181.105:64935::United States::Oklahoma::Oklahoma City
+72.206.181.97:64943::United States::Oklahoma::Oklahoma City
+72.195.34.35:27360::United States::Oklahoma::Oklahoma City
+98.162.96.53:10663::United States::Oklahoma::Oklahoma City
+98.170.57.249:4145::United States::Oklahoma::Oklahoma City
+72.217.216.239:4145::United States::Arizona::Phoenix
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+24.249.199.12:4145::United States::Florida::Pensacola
+72.221.196.157:35904::United States::Oklahoma::Oklahoma City
+67.201.33.10:25283::United States::California::Santa Ana
+98.162.25.16:4145::United States::Louisiana::Baton Rouge
+98.175.31.195:4145::United States::Virginia::Norfolk
+72.195.34.42:4145::United States::Oklahoma::Oklahoma City
+72.221.232.152:4145::United States::Oklahoma::Oklahoma City
+192.111.139.165:4145::United States::Georgia::Atlanta
+184.181.217.213:4145::United States::Oklahoma::Oklahoma City
+72.221.172.203:4145::United States::Oklahoma::Oklahoma City
+72.206.181.123:4145::United States::Oklahoma::Oklahoma City
+184.178.172.23:4145::United States::Virginia::Roanoke
+192.111.138.29:4145::United States::Georgia::Atlanta
+98.162.25.23:4145::United States::Louisiana::Baton Rouge
+98.162.25.7:31653::United States::Louisiana::Baton Rouge
+98.178.72.21:10919::United States::Oklahoma::Oklahoma City
+184.181.217.194:4145::United States::Oklahoma::Oklahoma City
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+98.188.47.150:4145::United States::Louisiana::Baton Rouge
+72.195.34.41:4145::United States::Oklahoma::Oklahoma City
+72.221.164.34:60671::United States::Oklahoma::Oklahoma City
+72.195.34.58:4145::United States::Oklahoma::Oklahoma City
+72.195.114.184:4145::United States::Oklahoma::Oklahoma City
+72.210.252.134:46164::United States::Oklahoma::Oklahoma City
+24.249.199.4:4145::United States::Florida::Pensacola
+98.188.47.132:4145::United States::Louisiana::Baton Rouge
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+170.238.79.2:7497::Brazil::Sao Paulo::São Paulo
+174.77.111.198:49547::United States::Oklahoma::Oklahoma City
+72.210.208.101:4145::United States::Oklahoma::Oklahoma City
+72.206.181.103:4145::United States::Oklahoma::Oklahoma City
+98.162.25.29:31679::United States::Louisiana::Baton Rouge
+45.169.70.9:7497::Brazil::Federal District::Brasília
+185.172.129.13:7497::United States::New York::New York
+114.116.2.116:8001::None::None::None
+195.201.225.104:23224::Germany::Bavaria::Gunzenhausen
+192.252.214.20:15864::United States::Georgia::Atlanta
+192.111.135.17:18302::United States::Georgia::Atlanta
+167.99.201.165:15956::United Kingdom::England::London
+192.111.139.162:4145::United States::Georgia::Atlanta
+192.111.129.145:16894::Canada::Ontario::Toronto
+192.111.135.18:18301::United States::Georgia::Atlanta
+122.252.230.117:7497::India::Haryana::Gurugram
+192.252.208.70:14282::United States::Georgia::Atlanta
+184.181.217.206:4145::United States::Oklahoma::Oklahoma City
+203.153.36.37:7497::India::Haryana::Gurugram
+184.178.172.13:15311::United States::Virginia::Roanoke
+65.169.38.73:26592::United States::Georgia::Duluth
+114.115.223.222:8001::None::None::None
+109.94.74.29:1080::Russia::St.-Petersburg::St Petersburg
+58.22.60.174:1080::China::Fujian::Fuzhou
+143.198.229.56:60265::United States::California::Santa Clara
+124.163.236.54:7302::China::Beijing::Beijing
+129.146.18.152:20000::United States::Arizona::Phoenix
+192.111.137.35:4145::United States::Georgia::Atlanta
+192.111.137.34:18765::United States::Georgia::Atlanta
+192.111.137.37:18762::United States::Georgia::Atlanta
+209.145.51.228:46438::United States::Missouri::St Louis
+165.227.104.122:17419::United States::New Jersey::Clifton
+37.187.133.177:55012::Russia::Moscow Oblast::Pavlovskiy Posad
+134.209.100.103:47307::Singapore::South West::Singapore
+5.161.100.145:1080::United States::Kansas::Wichita
+61.135.30.54:7302::China::Beijing::Beijing
+62.171.150.48:50247::Germany::Bavaria::Nuremberg
+139.162.196.67:60586::United Kingdom::England::London
+138.94.92.26:7497::Brazil::Rio Grande do Norte::Acu
+157.230.183.230:54954::United States::New Jersey::North Bergen

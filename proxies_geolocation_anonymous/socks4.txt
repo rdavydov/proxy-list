@@ -1,0 +1,20 @@
+185.22.31.227:4153::Iran::Tehran::Tehran
+103.115.255.225:36331::Bangladesh::Dhaka Division::Savar Upazila
+181.209.106.188:1080::Argentina::Buenos Aires::Benavidez
+170.79.182.82:11337::Argentina::Mendoza::San Martin
+37.187.133.177:56252::Vietnam::Tinh Soc Trang::Soc Trang
+181.209.106.187:1080::Argentina::Buenos Aires::Benavidez
+5.22.154.50:32127::Slovakia::Nitra::Jelenec
+89.161.89.161:5678::Poland::Podlasie::Bialystok
+90.181.150.211:4145::Czechia::Hlavni mesto Praha::Prague
+103.163.36.142:4145::Indonesia::East Java::Blitar
+159.192.143.241:4153::Thailand::Bangkok::Samphanthawong
+131.0.143.1:4145::Brazil::Minas Gerais::Montes Claros
+36.66.36.252:4153::Indonesia::Riau::Bengkalis
+118.98.65.147:4153::Indonesia::Jakarta::Jakarta
+170.84.50.226:4153::Brazil::Rio de Janeiro::Rio de Janeiro
+102.219.33.98:1080::Ghana::Eastern Region::Kibi
+177.128.44.130:31337::Brazil::Rio Grande do Sul::Canoas
+114.242.116.57:4145::China::Beijing::Jinrongjie
+165.165.159.25:1888::South Africa::North West::Lichtenburg
+165.165.159.1:1888::South Africa::North West::Lichtenburg
