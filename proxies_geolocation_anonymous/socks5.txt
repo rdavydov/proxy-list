@@ -1,0 +1,17 @@
+47.243.95.228:10080|Hong Kong|Central and Western District|Central
+103.68.182.95:8009|Hong Kong|Kwai Tsing|Ha Kwai Chung
+103.111.227.209:1080|Bangladesh|Chittagong|Satkania
+47.99.142.11:80|China|Zhejiang|Hangzhou
+103.68.182.89:8009|Hong Kong|Kwai Tsing|Ha Kwai Chung
+45.132.75.19:10000|Brazil|Minas Gerais|Uberlândia
+167.114.222.149:27182|Canada|Quebec|Montreal
+93.184.12.100:1080|Palestinian Territory|West Bank|Ramallah
+195.38.163.5:1080|Kyrgyzstan|Gorod Bishkek|Bishkek
+198.44.132.246:50508|United States|New York|New York
+5.133.202.170:60230|Sweden|Stockholm County|Stockholm
+202.149.89.69:7999|Indonesia|Jakarta|Kuningan Barat
+47.100.184.89:80|China|Shanghai|Shanghai
+59.60.0.77:7890|Hong Kong|Central and Western District|Central
+221.226.109.229:7302|China|Jiangsu|Nanjing
+13.233.10.152:9050|Germany|Brandenburg|Brandenburg
+139.162.45.175:10000|Malaysia|Sarawak|Kuching
