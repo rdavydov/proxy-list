@@ -11,6 +11,6 @@
 
 Separate grouping for anonymous proxies, proxies with geoinfo and anonymous proxies with geoinfo.
 
-***❌ TURNED OFF UNTIL I FIND A FREE RELIABLE VPS. IF YOU CAN SUGGEST ONE - WELCOME TO [DISCUSSIONS](https://github.com/rdavydov/proxy-list/discussions). ❌***
+***❌ TURNED OFF UNTIL I FIND A FREE RELIABLE VPS. IF YOU CAN SUGGEST ONE - WELCOME TO [DISCUSSIONS](https://github.com/rdavydov/proxy-list/discussions).***
 
 ![](https://raw.githubusercontent.com/rdavydov/proxy-list/main/readme-img.jpg)
